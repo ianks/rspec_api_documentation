@@ -43,6 +43,7 @@ module RspecApiDocumentation
     autoload :IndexHelper
     autoload :CombinedTextWriter
     autoload :CombinedJsonWriter
+    autoload :PostmanWriter
   end
 
   module Views
